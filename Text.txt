@@ -1,0 +1,135 @@
+$ emptyString
+
+
+$ string
+Tom Cruise
+
+$ number
+56
+
+$ date
+1962-07-03T00:00:00.000Z
+
+$ boolean
+true
+
+$ null
+null
+
+$ nested.string
+Tom Cruise
+
+$ nested.number
+56
+
+$ nested.date
+1962-07-03T00:00:00.000Z
+
+$ nested.boolean
+true
+
+$ nested.null
+null
+
+$ nested.array.0.string
+Tom Cruise
+
+$ nested.array.0.number
+56
+
+$ nested.array.0.date
+1962-07-03T00:00:00.000Z
+
+$ nested.array.0.boolean
+true
+
+$ nested.array.0.null
+null
+
+$ nested.array.1.string
+Tom Cruise
+
+$ nested.array.1.number
+56
+
+$ nested.array.1.date
+1962-07-03T00:00:00.000Z
+
+$ nested.array.1.boolean
+true
+
+$ nested.array.1.null
+null
+
+$ nested.array.2.Actors.0.name
+Tom Cruise
+
+$ nested.array.2.Actors.0.age
+56
+
+$ nested.array.2.Actors.0.Born At
+Syracuse, NY
+
+$ nested.array.2.Actors.0.Birthdate
+July 3, 1962
+
+$ nested.array.2.Actors.0.photo
+https://jsonformatter.org/img/tom-cruise.jpg
+
+$ nested.array.2.Actors.0.wife
+null
+
+$ nested.array.2.Actors.0.weight
+67.5
+
+$ nested.array.2.Actors.0.hasChildren
+true
+
+$ nested.array.2.Actors.0.hasGreyHair
+false
+
+$ nested.array.2.Actors.0.children.0
+Suri
+
+$ nested.array.2.Actors.0.children.1
+Isabella Jane
+
+$ nested.array.2.Actors.0.children.2
+Connor
+
+$ nested.array.2.Actors.1.name
+Robert Downey Jr.
+
+$ nested.array.2.Actors.1.age
+53
+
+$ nested.array.2.Actors.1.Born At
+New York City, NY
+
+$ nested.array.2.Actors.1.Birthdate
+April 4, 1965
+
+$ nested.array.2.Actors.1.photo
+https://jsonformatter.org/img/Robert-Downey-Jr.jpg
+
+$ nested.array.2.Actors.1.wife
+Susan Downey
+
+$ nested.array.2.Actors.1.weight
+77.1
+
+$ nested.array.2.Actors.1.hasChildren
+true
+
+$ nested.array.2.Actors.1.hasGreyHair
+false
+
+$ nested.array.2.Actors.1.children.0
+Indio Falconer
+
+$ nested.array.2.Actors.1.children.1
+Avri Roel
+
+$ nested.array.2.Actors.1.children.2
+Exton Elias
+
